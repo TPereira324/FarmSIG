@@ -23,34 +23,6 @@ Toda a documentação detalhada encontra-se na pasta **documentação**, incluin
 
 ---
 
-## 🔍 Pesquisa de Mercado
-
-A agricultura inteligente é um dos setores tecnológicos com maior crescimento mundial.  
-O mercado global ultrapassou os **25 mil milhões de dólares em 2024**, com previsões de atingir **80 mil milhões até 2035**, impulsionado por:
-
-- Necessidade de otimizar recursos  
-- Alterações climáticas  
-- Crescente digitalização do setor agrícola  
-
-As principais áreas incluem:
-- *Precision Farming*  
-- *Livestock Monitoring*  
-- *Smart Greenhouses*  
-
-O SmartCamp posiciona-se como uma solução moderna que integra dados climáticos, controlo de alimentação e análise visual, respondendo às necessidades reais dos agricultores.
-
----
-
-##  Funcionalidades
-
-- Dashboard climático com dados por períodos de tempo  
-- Controlo e registo de alimentação animal  
-- Previsão de cenários agrícolas  
-- Gestão de utilizadores  
-- Interface simples e intuitiva  
-
----
-
 ## Tecnologias
 
 - **Frontend:** HTML, CSS, JavaScript  
